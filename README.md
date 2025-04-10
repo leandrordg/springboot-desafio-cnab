@@ -1,13 +1,21 @@
-<div style="text-align: center; padding-top: 50px;">
-    <img src="./images/arquitetura-desafio.png" width="512" style="border-radius: 10px">
-</div>
+<p align="center">
+  <img src="./images/arquitetura-desafio.png" width="512" alt="Arquitetura do Desafio" />
+</p>
 
-# Desafio Programação - Desenvolvedor Backend
+<p align="center">
+  <a href="https://github.com/leandrordg/springboot-desafio-itau/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/leandrordg/springboot-desafio-itau" alt="License" />
+  </a>
+  <a href="https://github.com/leandrordg/springboot-desafio-itau/commits/main">
+    <img src="https://img.shields.io/github/last-commit/leandrordg/springboot-desafio-itau" alt="Last Commit" />
+  </a>
+  <a href="https://github.com/leandrordg/springboot-desafio-itau">
+    <img src="https://img.shields.io/github/repo-size/leandrordg/springboot-desafio-itau" alt="Repo Size" />
+  </a>
+  <img src="https://img.shields.io/badge/Java-17-blue" alt="Java Version" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.4.4-brightgreen" alt="Spring Boot" />
+</p>
 
-![Build Status](https://img.shields.io/github/workflow/status/leandrordg/springboot-desafio-itau/CI?label=Build&logo=github)
-![License](https://img.shields.io/github/license/leandrordg/springboot-desafio-itau)
-![Java Version](https://img.shields.io/badge/Java-17-blue)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.4-brightgreen)
 
 Por favor leiam este documento do começo ao fim, com muita atenção.
 O intuito deste teste é avaliar seus conhecimentos técnicos em programação.
